@@ -58,13 +58,6 @@ Explore sales and financial performance through reporting and data visualization
 
 - **HackerRank SQL (Basic) Skill Certification**
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sairambadganchi18&show_icons=true&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sairambadganchi18&theme=github-dark-blue&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sairambadganchi18&layout=compact&theme=github_dark&hide_border=true)
 
 ## 🌐 Connect With Me
 
